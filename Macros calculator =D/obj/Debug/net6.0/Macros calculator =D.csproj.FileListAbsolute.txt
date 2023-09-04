@@ -1,0 +1,14 @@
+K:\VSProjects\Macros calculator =D\Macros calculator =D\bin\Debug\net6.0\Macros calculator =D.exe
+K:\VSProjects\Macros calculator =D\Macros calculator =D\bin\Debug\net6.0\Macros calculator =D.deps.json
+K:\VSProjects\Macros calculator =D\Macros calculator =D\bin\Debug\net6.0\Macros calculator =D.runtimeconfig.json
+K:\VSProjects\Macros calculator =D\Macros calculator =D\bin\Debug\net6.0\Macros calculator =D.dll
+K:\VSProjects\Macros calculator =D\Macros calculator =D\bin\Debug\net6.0\Macros calculator =D.pdb
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\Macros calculator =D.GeneratedMSBuildEditorConfig.editorconfig
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\Macros calculator =D.AssemblyInfoInputs.cache
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\Macros calculator =D.AssemblyInfo.cs
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\Macros calculator =D.csproj.CoreCompileInputs.cache
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\Macros calculator =D.dll
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\refint\Macros calculator =D.dll
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\Macros calculator =D.pdb
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\Macros calculator =D.genruntimeconfig.cache
+K:\VSProjects\Macros calculator =D\Macros calculator =D\obj\Debug\net6.0\ref\Macros calculator =D.dll
